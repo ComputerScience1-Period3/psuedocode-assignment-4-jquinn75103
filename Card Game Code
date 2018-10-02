@@ -3,9 +3,9 @@ Card Game: Uno
 //Sequence
 
 Instructions"
-1) Gather at least one other person to play against you. 
+1) Gather at least one other person to play against you. // Split hands into arrays 
 2) Use a deck of UNO cards.
-3) Choose a dealer by having each player pick one card.
+3) Choose a dealer by having each player pick one card. // Loop by adding on card to each array
 4) Deal each player seven cards and place the remaining cards face down in the middle of the table.
 5) Turn over the top card of the draw pile and place this card next to the draw pile to form the discard pile.
 6) Take turns beginning with the player to the dealer's left and go clockwise around the table.
